@@ -2,6 +2,7 @@ LightCubes
 ==========
 
 3D lighting and geometry demo written in C++ / OpenGL 3.3
+
 This was a college project.  The code is terrible in places.
 
 ![Screenshot 1](https://raw.github.com/LeeCIT/LightCubes/master/screenshots/screenshot1.png)
