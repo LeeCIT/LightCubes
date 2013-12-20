@@ -1,0 +1,43 @@
+
+====== Controls ======
+
+    Program:
+        Quit: Z
+
+    Motion:
+        Forward: W
+        Back:    S
+        Left:    A
+        Right:   D
+        Up:      C
+        Down:    X
+    
+    Orientation:
+        Roll CCW:   Q
+        Roll CW:    E
+        Pitch up:   Up
+        Pitch down: Down
+        Yaw left:   Left
+        Yaw right:  Right
+    
+    Zoom:
+        Minify:  -
+        Magnify: +
+        Reset:   Backspace
+    
+    Spotlight:
+        Cone-:      < (,)
+        Cone+:      > (.)
+        Softness-:  n
+        Softness+:  m
+    
+    Rendering:
+        Toggle toon shading: T
+        Toggle wireframe:    F
+        Toggle light:        Left click on light source
+ 
+ 
+ 
+ 
+ 
+
